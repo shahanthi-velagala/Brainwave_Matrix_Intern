@@ -20,7 +20,7 @@ Design and implement a **Relational Database** for a Library Management System u
 - Record return dates
 
 ## 📎 Sample Screenshot
-(You can add your screenshot here later)
+[DB-Fiddle Result](dbfiddle_result.png)
 
 ## 🔗 GitHub Repo
 [Click here to view this repo](https://github.com/shahanthi-velagala/Brainwave_Matrix_Intern)
