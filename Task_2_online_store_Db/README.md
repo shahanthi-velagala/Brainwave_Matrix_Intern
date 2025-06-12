@@ -1,1 +1,1 @@
-This folder contain online store database project
+This folder contains online store database project
