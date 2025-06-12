@@ -1,26 +1,16 @@
-# Library Management System - Internship Task
+# Task 2 - Online Store Database
 
-This project was created as part of my internship at **Brainwave Matrix Solutions**.
+This is my second task for Brainwave Matrix Solutions internship.
 
-## 🔧 Task Description
-Design and implement a **Relational Database** for a Library Management System using SQL.
+## Tables used:
+- Customers
+- Products
+- Orders
+- OrderDetails
+- Payments
 
-## 💾 Technologies Used
-- MySQL (tested on DB-Fiddle.com)
-- GitHub for version control
-
-## 📂 Tables Included
-- `Students`
-- `Books`
-- `IssueRecords`
-
-## ✅ Features
-- Add books and students
-- Track issued books
-- Record return dates
-
-## 📎 Sample Screenshot
-[DB-Fiddle Result](dbfiddle_result.png)
-
-## 🔗 GitHub Repo
-[Click here to view this repo](https://github.com/shahanthi-velagala/Brainwave_Matrix_Intern)
+## Files:
+- `create_tables.sql` — to create tables
+- `insert_data.sql` — to insert sample data
+- `sample_queries.sql` — to run test queries
+- `online_store.db` — the SQLite database file
